@@ -1,5 +1,6 @@
 print("test")
 
+#zaokraglanie
 x = 10.1234
 print(x)
 print("{:.2f}".format(x))
